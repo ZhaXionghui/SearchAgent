@@ -12,3 +12,5 @@ git clone https://github.com/ZhaXionghui/SearchAgent.git
 git checkout -b <your_branch_name>
 ```
 使用pull request合并代码。
+
+2026.2.1
